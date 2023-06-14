@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xCHLOMIx
-- 👀 I’m interested in VALORANT
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web Development jobs
 - 📫 How to reach me chlomi2006@gmail.com
